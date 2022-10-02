@@ -25,13 +25,13 @@ const LoggedInView = (props) => {
     <ul className="navbar-nav ml-auto">
       <li className="nav-item">
         <Link to="/editor" className="nav-link">
-          <i className="ion-compose"></i>&nbsp;New Item
+          <i className="ion-compose"></i>New Item
         </Link>
       </li>
 
       <li className="nav-item">
         <Link to="/settings" className="nav-link">
-          <i className="ion-gear-a"></i>&nbsp;Settings
+          <i className="ion-gear-a"></i>Settings
         </Link>
       </li>
 
